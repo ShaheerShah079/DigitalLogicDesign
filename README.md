@@ -7,18 +7,17 @@
 <body>
     <header>
         <div class="container">
-            <h1>DLD Lab Project</h1>
+            <h1>DLD </h1>
         </div>
     </header>
     <div class="container">
         <div class="content">
-            <h2>Project Overview</h2>
+            <h2>Overview</h2>
             <p>
                 This Digital Logic Design (DLD) project showcases various practical exercises and lab work conducted using Electronic Workbench. 
               The project includes designs, simulations, and implementations of different digital circuits and components.
               It serves as a comprehensive demonstration of digital logic concepts applied in real-world scenarios.It also include my Notes and learning files
             </p>
-
   <h2>Project Components</h2>
   <ul>
       <li><strong>Logic Gate Implementations:</strong> Includes various logic gates such as AND, OR, NOT, NAND, NOR, XOR, and XNOR, implemented and tested using Electronic Workbench.</li>
@@ -43,11 +42,7 @@
       <li><strong>Combinational Circuits:</strong> Files with combinational circuit designs.</li>
       <li><strong>Sequential Circuits:</strong> Files for sequential circuit implementations.</li>
         </ul>
-
-
 </div>
 </div>
-<footer>
-</footer>
 </body>
 </html>
